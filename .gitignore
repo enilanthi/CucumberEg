@@ -1,0 +1,11 @@
+# file-based project format:
+*.iws
+*.ipr
+*.iml
+
+# generated folders
+target/
+.idea/
+
+error.log
+info.log
